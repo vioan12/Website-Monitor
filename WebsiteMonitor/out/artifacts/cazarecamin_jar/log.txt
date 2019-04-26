@@ -1,0 +1,3 @@
+Fri Mar 15 01:23:25 EET 2019 --> baseWebPage load completed
+Fri Mar 15 01:24:31 EET 2019 --> realTimeWebPage load completed
+Fri Mar 15 01:25:31 EET 2019 --> S-a DAAAAAT
